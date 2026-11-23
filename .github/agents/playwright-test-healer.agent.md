@@ -19,7 +19,7 @@ mcp-servers:
     type: stdio
     command: npx
     args:
-      - @playwright/mcp@latest
+      -@playwright/mcp@latest
     tools:
       - "*"
 ---
